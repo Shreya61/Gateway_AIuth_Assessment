@@ -1,0 +1,5 @@
+{
+  "source": "Use Test A outline",
+  "insert_after_chapter": 4,
+  "repair": ["TOC", "callbacks", "glossary", "references", "assembler"]
+}
